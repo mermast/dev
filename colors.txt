@@ -2,6 +2,7 @@ white
 blue
 red
 yellow
+golden
 green
 pink
 purple
