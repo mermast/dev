@@ -6,3 +6,5 @@ golden
 green
 pink
 purple
+parrot
+sparkling yellow
